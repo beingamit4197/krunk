@@ -1,3 +1,6 @@
+![Screenshot](https://github.com/beingamit4197/krunk/blob/master/screenshot-nimbusweb.me-2024.04.12-17_29_52.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
